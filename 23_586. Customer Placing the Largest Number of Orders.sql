@@ -1,7 +1,7 @@
 #586. Customer Placing the Largest Number of Orders
 # Write your MySQL query statement below
   
-
+#using sql
  Select customer_number 
 From Orders 
 Group by customer_number 
